@@ -1,0 +1,11 @@
+# No external dependencies required
+# Python 3.8+ standard library only
+
+# Future dependencies (planned for v0.2.0+):
+# fastapi>=0.100.0             # For REST API (v0.2.0)
+# uvicorn>=0.23.0              # For API server (v0.2.0)
+# pandas>=2.0.0                # For data analysis (v0.3.0)
+# matplotlib>=3.7.0            # For price charts (v0.3.0)
+# scikit-learn>=1.3.0          # For ML predictions (v0.3.0)
+# sqlalchemy>=2.0.0            # For database (v1.0.0)
+# psycopg2-binary>=2.9.0       # For PostgreSQL (v1.0.0)

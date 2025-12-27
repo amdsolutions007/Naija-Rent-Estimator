@@ -1,0 +1,537 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "last_updated": "2025-12-27",
+    "currency": "NGN",
+    "period": "Annual Rent",
+    "source": "Nigeria Property Centre, Propertypro.ng, Lamudi (2024-2025 data)",
+    "coverage": "Lagos State - 15 Major Areas",
+    "disclaimer": "Prices are estimates based on market averages. Actual prices may vary based on property condition, proximity to landmarks, and negotiation."
+  },
+  "areas": [
+    {
+      "name": "Lekki Phase 1",
+      "lga": "Eti-Osa",
+      "tier": "Premium",
+      "description": "Upscale residential area with gated estates, close to beaches and nightlife",
+      "pricing": {
+        "1_bedroom": {
+          "min": 800000,
+          "avg": 1200000,
+          "max": 1800000,
+          "market_trend": "Rising (+15% YoY)"
+        },
+        "2_bedroom": {
+          "min": 1500000,
+          "avg": 2000000,
+          "max": 3000000,
+          "market_trend": "Rising (+15% YoY)"
+        },
+        "3_bedroom": {
+          "min": 2500000,
+          "avg": 3500000,
+          "max": 5000000,
+          "market_trend": "Rising (+12% YoY)"
+        },
+        "4_bedroom": {
+          "min": 4000000,
+          "avg": 6000000,
+          "max": 9000000,
+          "market_trend": "Stable"
+        }
+      },
+      "amenities": ["24hr power", "security", "gym", "pool", "parking"],
+      "popular_estates": ["Meadow Hall", "Richmond Estate", "Pinnock Beach Estate"]
+    },
+    {
+      "name": "Victoria Island",
+      "lga": "Eti-Osa",
+      "tier": "Luxury",
+      "description": "Premier business district with luxury apartments, embassies, and corporate offices",
+      "pricing": {
+        "1_bedroom": {
+          "min": 1500000,
+          "avg": 2500000,
+          "max": 4000000,
+          "market_trend": "Stable"
+        },
+        "2_bedroom": {
+          "min": 3000000,
+          "avg": 4500000,
+          "max": 7000000,
+          "market_trend": "Rising (+8% YoY)"
+        },
+        "3_bedroom": {
+          "min": 5000000,
+          "avg": 7500000,
+          "max": 12000000,
+          "market_trend": "Rising (+10% YoY)"
+        },
+        "4_bedroom": {
+          "min": 8000000,
+          "avg": 12000000,
+          "max": 20000000,
+          "market_trend": "Stable"
+        }
+      },
+      "amenities": ["Generator", "security", "gym", "pool", "concierge", "parking"],
+      "popular_estates": ["Eko Atlantic", "1004 Estate", "Water Corporation Drive"]
+    },
+    {
+      "name": "Ikoyi",
+      "lga": "Lagos Island",
+      "tier": "Luxury",
+      "description": "Ultra-premium residential area with colonial mansions and modern high-rises",
+      "pricing": {
+        "1_bedroom": {
+          "min": 1800000,
+          "avg": 3000000,
+          "max": 5000000,
+          "market_trend": "Rising (+12% YoY)"
+        },
+        "2_bedroom": {
+          "min": 3500000,
+          "avg": 5500000,
+          "max": 9000000,
+          "market_trend": "Rising (+10% YoY)"
+        },
+        "3_bedroom": {
+          "min": 6000000,
+          "avg": 9000000,
+          "max": 15000000,
+          "market_trend": "Rising (+8% YoY)"
+        },
+        "4_bedroom": {
+          "min": 10000000,
+          "avg": 15000000,
+          "max": 30000000,
+          "market_trend": "Stable"
+        }
+      },
+      "amenities": ["24hr power", "security", "gym", "pool", "smart home", "parking"],
+      "popular_estates": ["Banana Island", "Parkview Estate", "Dolphin Estate"]
+    },
+    {
+      "name": "Yaba",
+      "lga": "Lagos Mainland",
+      "tier": "Mid-Range",
+      "description": "Tech hub and university area, popular with young professionals and students",
+      "pricing": {
+        "1_bedroom": {
+          "min": 400000,
+          "avg": 600000,
+          "max": 900000,
+          "market_trend": "Rising (+20% YoY)"
+        },
+        "2_bedroom": {
+          "min": 700000,
+          "avg": 1000000,
+          "max": 1500000,
+          "market_trend": "Rising (+18% YoY)"
+        },
+        "3_bedroom": {
+          "min": 1200000,
+          "avg": 1800000,
+          "max": 2500000,
+          "market_trend": "Rising (+15% YoY)"
+        },
+        "4_bedroom": {
+          "min": 2000000,
+          "avg": 3000000,
+          "max": 4500000,
+          "market_trend": "Stable"
+        }
+      },
+      "amenities": ["security", "parking", "prepaid meter"],
+      "popular_estates": ["Sabo", "Akoka", "Unilag Estate"]
+    },
+    {
+      "name": "Ikeja",
+      "lga": "Ikeja",
+      "tier": "Mid-Range",
+      "description": "Capital city with mix of residential and commercial, close to airport",
+      "pricing": {
+        "1_bedroom": {
+          "min": 500000,
+          "avg": 750000,
+          "max": 1200000,
+          "market_trend": "Stable"
+        },
+        "2_bedroom": {
+          "min": 900000,
+          "avg": 1300000,
+          "max": 2000000,
+          "market_trend": "Rising (+10% YoY)"
+        },
+        "3_bedroom": {
+          "min": 1500000,
+          "avg": 2200000,
+          "max": 3500000,
+          "market_trend": "Rising (+8% YoY)"
+        },
+        "4_bedroom": {
+          "min": 2500000,
+          "avg": 4000000,
+          "max": 6000000,
+          "market_trend": "Stable"
+        }
+      },
+      "amenities": ["security", "parking", "generator", "prepaid meter"],
+      "popular_estates": ["Omole Phase 1", "Omole Phase 2", "GRA Ikeja", "Allen Avenue"]
+    },
+    {
+      "name": "Surulere",
+      "lga": "Surulere",
+      "tier": "Mid-Range",
+      "description": "Established middle-class neighborhood with good infrastructure",
+      "pricing": {
+        "1_bedroom": {
+          "min": 350000,
+          "avg": 550000,
+          "max": 800000,
+          "market_trend": "Stable"
+        },
+        "2_bedroom": {
+          "min": 600000,
+          "avg": 900000,
+          "max": 1400000,
+          "market_trend": "Rising (+5% YoY)"
+        },
+        "3_bedroom": {
+          "min": 1000000,
+          "avg": 1500000,
+          "max": 2200000,
+          "market_trend": "Rising (+7% YoY)"
+        },
+        "4_bedroom": {
+          "min": 1800000,
+          "avg": 2500000,
+          "max": 3800000,
+          "market_trend": "Stable"
+        }
+      },
+      "amenities": ["security", "parking"],
+      "popular_estates": ["Adeniran Ogunsanya", "Stadium", "Shitta"]
+    },
+    {
+      "name": "Ajah",
+      "lga": "Eti-Osa",
+      "tier": "Affordable",
+      "description": "Emerging area along Lekki corridor, popular with middle-income earners",
+      "pricing": {
+        "1_bedroom": {
+          "min": 300000,
+          "avg": 500000,
+          "max": 750000,
+          "market_trend": "Rising (+25% YoY)"
+        },
+        "2_bedroom": {
+          "min": 500000,
+          "avg": 800000,
+          "max": 1200000,
+          "market_trend": "Rising (+22% YoY)"
+        },
+        "3_bedroom": {
+          "min": 900000,
+          "avg": 1400000,
+          "max": 2000000,
+          "market_trend": "Rising (+20% YoY)"
+        },
+        "4_bedroom": {
+          "min": 1500000,
+          "avg": 2200000,
+          "max": 3500000,
+          "market_trend": "Rising (+18% YoY)"
+        }
+      },
+      "amenities": ["security", "parking"],
+      "popular_estates": ["Sangotedo", "Lakowe", "Abraham Adesanya"]
+    },
+    {
+      "name": "Magodo",
+      "lga": "Kosofe",
+      "tier": "Premium",
+      "description": "Upscale residential area with well-planned estates",
+      "pricing": {
+        "1_bedroom": {
+          "min": 600000,
+          "avg": 900000,
+          "max": 1400000,
+          "market_trend": "Rising (+12% YoY)"
+        },
+        "2_bedroom": {
+          "min": 1000000,
+          "avg": 1500000,
+          "max": 2300000,
+          "market_trend": "Rising (+10% YoY)"
+        },
+        "3_bedroom": {
+          "min": 1800000,
+          "avg": 2500000,
+          "max": 4000000,
+          "market_trend": "Rising (+8% YoY)"
+        },
+        "4_bedroom": {
+          "min": 3000000,
+          "avg": 4500000,
+          "max": 7000000,
+          "market_trend": "Stable"
+        }
+      },
+      "amenities": ["24hr power", "security", "gym", "parking"],
+      "popular_estates": ["Magodo Phase 1", "Magodo Phase 2", "Shangisha"]
+    },
+    {
+      "name": "Gbagada",
+      "lga": "Kosofe",
+      "tier": "Mid-Range",
+      "description": "Mixed residential area with easy access to Third Mainland Bridge",
+      "pricing": {
+        "1_bedroom": {
+          "min": 400000,
+          "avg": 600000,
+          "max": 900000,
+          "market_trend": "Stable"
+        },
+        "2_bedroom": {
+          "min": 700000,
+          "avg": 1000000,
+          "max": 1500000,
+          "market_trend": "Rising (+8% YoY)"
+        },
+        "3_bedroom": {
+          "min": 1200000,
+          "avg": 1700000,
+          "max": 2500000,
+          "market_trend": "Rising (+10% YoY)"
+        },
+        "4_bedroom": {
+          "min": 2000000,
+          "avg": 3000000,
+          "max": 4500000,
+          "market_trend": "Stable"
+        }
+      },
+      "amenities": ["security", "parking", "prepaid meter"],
+      "popular_estates": ["Gbagada Phase 1", "Gbagada Phase 2", "Soluyi"]
+    },
+    {
+      "name": "Ikorodu",
+      "lga": "Ikorodu",
+      "tier": "Affordable",
+      "description": "Budget-friendly area, popular with first-time renters",
+      "pricing": {
+        "1_bedroom": {
+          "min": 200000,
+          "avg": 350000,
+          "max": 500000,
+          "market_trend": "Rising (+15% YoY)"
+        },
+        "2_bedroom": {
+          "min": 350000,
+          "avg": 550000,
+          "max": 800000,
+          "market_trend": "Rising (+12% YoY)"
+        },
+        "3_bedroom": {
+          "min": 600000,
+          "avg": 900000,
+          "max": 1300000,
+          "market_trend": "Rising (+10% YoY)"
+        },
+        "4_bedroom": {
+          "min": 1000000,
+          "avg": 1500000,
+          "max": 2200000,
+          "market_trend": "Stable"
+        }
+      },
+      "amenities": ["security", "parking"],
+      "popular_estates": ["Ikorodu Town", "Igbogbo", "Agric"]
+    },
+    {
+      "name": "Isolo",
+      "lga": "Oshodi-Isolo",
+      "tier": "Affordable",
+      "description": "Budget-friendly area near airport and industrial zones",
+      "pricing": {
+        "1_bedroom": {
+          "min": 300000,
+          "avg": 450000,
+          "max": 650000,
+          "market_trend": "Stable"
+        },
+        "2_bedroom": {
+          "min": 500000,
+          "avg": 750000,
+          "max": 1100000,
+          "market_trend": "Rising (+8% YoY)"
+        },
+        "3_bedroom": {
+          "min": 900000,
+          "avg": 1300000,
+          "max": 1900000,
+          "market_trend": "Rising (+10% YoY)"
+        },
+        "4_bedroom": {
+          "min": 1500000,
+          "avg": 2200000,
+          "max": 3200000,
+          "market_trend": "Stable"
+        }
+      },
+      "amenities": ["security", "parking"],
+      "popular_estates": ["Ago Palace Way", "Okota", "Mafoluku"]
+    },
+    {
+      "name": "Festac Town",
+      "lga": "Amuwo-Odofin",
+      "tier": "Mid-Range",
+      "description": "Established estate with organized layout and good amenities",
+      "pricing": {
+        "1_bedroom": {
+          "min": 400000,
+          "avg": 600000,
+          "max": 900000,
+          "market_trend": "Stable"
+        },
+        "2_bedroom": {
+          "min": 700000,
+          "avg": 1000000,
+          "max": 1500000,
+          "market_trend": "Stable"
+        },
+        "3_bedroom": {
+          "min": 1200000,
+          "avg": 1700000,
+          "max": 2500000,
+          "market_trend": "Rising (+5% YoY)"
+        },
+        "4_bedroom": {
+          "min": 2000000,
+          "avg": 3000000,
+          "max": 4500000,
+          "market_trend": "Stable"
+        }
+      },
+      "amenities": ["security", "parking", "street lights"],
+      "popular_estates": ["FESTAC 1st Avenue", "FESTAC 2nd Avenue", "Amuwo Odofin"]
+    },
+    {
+      "name": "Agege",
+      "lga": "Agege",
+      "tier": "Budget",
+      "description": "High-density low-cost area with good transport links",
+      "pricing": {
+        "1_bedroom": {
+          "min": 180000,
+          "avg": 300000,
+          "max": 450000,
+          "market_trend": "Rising (+10% YoY)"
+        },
+        "2_bedroom": {
+          "min": 300000,
+          "avg": 500000,
+          "max": 750000,
+          "market_trend": "Rising (+8% YoY)"
+        },
+        "3_bedroom": {
+          "min": 550000,
+          "avg": 800000,
+          "max": 1200000,
+          "market_trend": "Stable"
+        },
+        "4_bedroom": {
+          "min": 900000,
+          "avg": 1300000,
+          "max": 2000000,
+          "market_trend": "Stable"
+        }
+      },
+      "amenities": ["security"],
+      "popular_estates": ["Dopemu", "Orile Agege", "Mangoro"]
+    },
+    {
+      "name": "Ojodu",
+      "lga": "Ikeja",
+      "tier": "Mid-Range",
+      "description": "Residential area near Berger, popular with commuters",
+      "pricing": {
+        "1_bedroom": {
+          "min": 400000,
+          "avg": 600000,
+          "max": 900000,
+          "market_trend": "Rising (+12% YoY)"
+        },
+        "2_bedroom": {
+          "min": 700000,
+          "avg": 1000000,
+          "max": 1500000,
+          "market_trend": "Rising (+10% YoY)"
+        },
+        "3_bedroom": {
+          "min": 1200000,
+          "avg": 1700000,
+          "max": 2500000,
+          "market_trend": "Rising (+8% YoY)"
+        },
+        "4_bedroom": {
+          "min": 2000000,
+          "avg": 3000000,
+          "max": 4500000,
+          "market_trend": "Stable"
+        }
+      },
+      "amenities": ["security", "parking", "prepaid meter"],
+      "popular_estates": ["Ojodu Berger", "Bemil", "Grammar School"]
+    },
+    {
+      "name": "Lekki Phase 2",
+      "lga": "Eti-Osa",
+      "tier": "Premium",
+      "description": "Newer development with modern apartments and gated communities",
+      "pricing": {
+        "1_bedroom": {
+          "min": 700000,
+          "avg": 1000000,
+          "max": 1500000,
+          "market_trend": "Rising (+18% YoY)"
+        },
+        "2_bedroom": {
+          "min": 1300000,
+          "avg": 1800000,
+          "max": 2700000,
+          "market_trend": "Rising (+15% YoY)"
+        },
+        "3_bedroom": {
+          "min": 2200000,
+          "avg": 3200000,
+          "max": 4800000,
+          "market_trend": "Rising (+12% YoY)"
+        },
+        "4_bedroom": {
+          "min": 3500000,
+          "avg": 5500000,
+          "max": 8500000,
+          "market_trend": "Stable"
+        }
+      },
+      "amenities": ["24hr power", "security", "gym", "pool", "parking"],
+      "popular_estates": ["Ikate", "Ilasan", "Idado"]
+    }
+  ],
+  "pricing_tiers": {
+    "Luxury": "₦3M+ for 2-bedroom (Ikoyi, VI)",
+    "Premium": "₦1.5M-₦3M for 2-bedroom (Lekki, Magodo)",
+    "Mid-Range": "₦700k-₦1.5M for 2-bedroom (Yaba, Ikeja, Surulere)",
+    "Affordable": "₦400k-₦700k for 2-bedroom (Ajah, Ikorodu, Isolo)",
+    "Budget": "₦300k-₦400k for 2-bedroom (Agege)"
+  },
+  "greed_meter_thresholds": {
+    "great_deal": "Below min price",
+    "fair_price": "Within min-max range",
+    "moderate_risk": "10-20% above max",
+    "high_risk": "20-50% above max",
+    "extreme_greed": ">50% above max"
+  }
+}
