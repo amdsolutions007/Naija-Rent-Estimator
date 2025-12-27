@@ -423,3 +423,28 @@ python3 estimator.py "Lekki Phase 1" 2 2500000
 ```
 
 **Stop overpaying for rent. Know your worth.** 🏠
+
+---
+
+## 📄 COPYRIGHT & LICENSING
+
+**© 2025 AMD Solutions - All Rights Reserved**
+
+This code is provided for **portfolio demonstration and educational purposes only**.
+
+### Want to use this commercially?
+
+**Licensing available:** $500 (Startup) | $2,500 (Business) | $5,000 (Enterprise)
+
+📧 Contact: **ceo@amdsolutions007.com**
+
+See [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md) for full details.
+
+### Why paid licensing?
+
+This represents weeks of development, AI costs, and expertise.  
+Support the developer who built this to feed his family. 🙏
+
+---
+
+**Built with ❤️ in Nigeria by Olawale Shoyemi**
